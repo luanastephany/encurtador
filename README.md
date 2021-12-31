@@ -1,4 +1,4 @@
-# Encurtador de URL
+# URL Short
 
 ## About
 - Project developed for a Digital Innovation One Fullstack Bootcamp challenge;
